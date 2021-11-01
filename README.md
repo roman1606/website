@@ -13,4 +13,4 @@ with programmers and other users of Git.
 For more information on Git, see the
 [official Git documentation](https://git-scm.com/).
 2.4 Summary
-Important commands from this section are summarized in Table 
+Important commands from this section are summarized in Table
